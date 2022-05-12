@@ -1,0 +1,14 @@
+---
+title: "Natureza das Transformações no Setor de Produção de Bens Culturais"
+author: "Alberson da Silva Miranda"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
+
+A economia está inserida na esfera social e, portanto, determinada por fenômenos sociais. Suas suas regras, normas e relações estão, por essa razão, sujeitas a mudanças em função de fatores como região, tempo e estruturas de poderˆ[Aqui me refiro às instituições que ora determinaram o *ethos* vigente, como a igreja, reis ou o capital, por exemplo.].
