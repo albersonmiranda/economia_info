@@ -11,4 +11,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
 
-A economia está inserida na esfera social e, portanto, determinada por fenômenos sociais. Suas suas regras, normas e relações estão, por essa razão, sujeitas a mudanças em função de fatores como região, tempo e estruturas de poderˆ[Aqui me refiro às instituições que ora determinaram o *ethos* vigente, como a igreja, reis ou o capital, por exemplo.].
+A economia está inserida na esfera social e, portanto, determinada por fenômenos sociais. Suas regras, normas e relações estão, por essa razão, sujeitas à geografia, tempo e estruturas de poderˆ[Aqui me refiro às instituições que ora determinaram o *ethos* vigente, como a igreja, aristrocacia ou o capital, por exemplo.]. Isso implica que seu funcionamento não pode ser explicado por *leis*, que, por definição, são imutáveis.
+
+- e no caso dos bens culturais, essas transformações são ainda mais rápidas do que o conjunto da economia
+- escrever hipóteses (livro Alain, p.30)
+- mostrar que a metodologia neoclássica não é capaz de caracterizar teoricamente os bens culturais:
+    - função de produção, incluindo homogeneidade (p.27), utilidade ordinal x cardinal (impossibilidade somar utilidade ordinal) e star system
+    - leis de rendimentos marginais decrescentes
+    - função utilidade: consumo de duas músicas não é melhor do que de uma. Mostrar otimização restrita (renda e preços das músicas).
