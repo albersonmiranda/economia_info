@@ -2,20 +2,45 @@
 title: "Natureza das Transformações no Setor de Produção de Bens Culturais"
 author: "Alberson da Silva Miranda"
 date: "`r Sys.Date()`"
-output: pdf_document
+bibliography: bib.bib
+csl: abnt.csl
+output:
+  pdf_document:
+    number_sections: true
+header-includes: \usepackage{abntex2}
 ---
 
 ```{r setup, include=FALSE}
+
+# options
 knitr::opts_chunk$set(echo = FALSE)
+
 ```
+
+# INTRODUÇÃO {-}
+
+A economia está inserida na esfera social e, portanto, determinada por fenômenos sociais. Suas regras, normas e relações estão, por essa razão, sujeitas à geografia, tempo e estruturas de poder\footnote{Aqui me refiro às instituições que ora determinaram o \textit{ethos} vigente, como a igreja, aristrocacia ou o capital, por exemplo.}. Isso implica que seu funcionamento em raras ocasiões --- ou em nenhuma --- poderá ser explicado por *leis*, que, por definição, são imutáveis. E no caso dos bens culturais, há evidências de transformações profundas nos últimos anos.
+
+Neste estudo, [...]
+
+# FATOS ESTILIZADOS DA INDÚSTRIA DA MÚSICA
+
+
 
 # CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
 
-A economia está inserida na esfera social e, portanto, determinada por fenômenos sociais. Suas regras, normas e relações estão, por essa razão, sujeitas à geografia, tempo e estruturas de poderˆ[Aqui me refiro às instituições que ora determinaram o *ethos* vigente, como a igreja, aristrocacia ou o capital, por exemplo.]. Isso implica que seu funcionamento não pode ser explicado por *leis*, que, por definição, são imutáveis.
+Para caracterizar o setor de produção de bens culturais, nos muniremos de @bourdieu e @herscovici. Como referência, confrontaremos o corpo teórico desenvolvido pelos autores com a pressupostos comuns ao *mainstream* para evidenciar as divergências. Primeiramente, analisaremos as hipóteses adotadas por @herscovici acerca do produto cultural.
 
-- e no caso dos bens culturais, essas transformações são ainda mais rápidas do que o conjunto da economia
-- escrever hipóteses (livro Alain, p.30)
-- mostrar que a metodologia neoclássica não é capaz de caracterizar teoricamente os bens culturais:
-    - função de produção, incluindo homogeneidade (p.27), utilidade ordinal x cardinal (impossibilidade somar utilidade ordinal) e star system
-    - leis de rendimentos marginais decrescentes
-    - função utilidade: consumo de duas músicas não é melhor do que de uma. Mostrar otimização restrita (renda e preços das músicas).
+## HIPÓTESE #1
+
+
+> Suponhamos que não seja possível raciocinar em termos de valor intrínseco da obra de arte. Isto significa simplesmente que as apreciações feitas a respeito da obra dependem, simultaneamente, da época e do grupo social considerado, assim como dos modos de validação em vigor. A obra só pode ser compreendida e apreciada se for recolocada no seu contexto histórico e sociológico; a universalidade da obra de arte é, portanto, limitada por estes fatores. [@herscovici, p.30]
+
+
+-   escrever hipóteses (livro Alain, p.30) (hipotese 1: falar da função U(c), h2: Bourdieu, h3: homogeneidade, h4: ?)
+-   mostrar que a metodologia neoclássica não é capaz de caracterizar teoricamente os bens culturais:
+    -   função de produção, incluindo homogeneidade (p.27), utilidade ordinal x cardinal (impossibilidade somar utilidade ordinal) e star system
+    -   leis de rendimentos marginais decrescentes
+    -   função utilidade: consumo de duas músicas não é melhor do que de uma. Mostrar otimização restrita (renda e preços das músicas).
+
+# REFERÊNCIAS
