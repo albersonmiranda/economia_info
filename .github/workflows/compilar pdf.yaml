@@ -18,30 +18,11 @@ jobs:
         with:
           token: ${{ secrets.ADMIN_TOKEN }}
 
-      - name: Instalar R ${{ matrix.r-version }}
-        uses: r-lib/actions/setup-r@v1
+      - name: Render document
+        uses: lc5415/rmarkdown-action@v1
         with:
-          r-version: ${{ matrix.r-version }}
-
-      - name: Instalar pacotes
-        run: |
-          install.packages(c("rmarkdown", "tinytex", "installr"))
-        shell: Rscript {0}
-
-      - name: Instalar pandoc
-        run: |
-          installr::install.pandoc()
-        shell: Rscript {0}
-
-      - name: Instalar tinytex
-        run: |
-          tinytex::install_tinytex()
-        shell: Rscript {0}
-
-      - name: Compilar PDF
-        run: |
-          rmarkdown::render('artigo.Rmd', encoding = 'UTF-8')
-        shell: Rscript {0}
+          input_file: artigo.rmd
+          output_format: artigo.pdf
 
       - name: Commit do PDF
         run: |
