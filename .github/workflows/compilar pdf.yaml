@@ -9,20 +9,29 @@ name: compile pdf
 jobs:
   compile-pdf:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        r-version: ['4.2.0']
+    container:
+      image: docker://thomasweise/docker-pandoc-r
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.ADMIN_TOKEN }}
 
-      - name: Render document
-        uses: happyRip/rmarkdown-action@v1.1
-        with:
-          input_file: artigo.Rmd
-          output_format: pdf_document
+      - name: Instalar pacotes
+        run: |
+          install.packages(c("rmarkdown", "tinytex"))
+        shell: Rscript {0}
+
+      - name: Instalar tinytex
+        run: |
+          tinytex::install_tinytex()
+        shell: Rscript {0}
+
+      - name: Compilar PDF
+        run: |
+          rmarkdown::render('artigo.Rmd', encoding = 'UTF-8')
+        shell: Rscript {0}
 
       - name: Commit do PDF
         run: |
