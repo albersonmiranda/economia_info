@@ -25,7 +25,12 @@ jobs:
 
       - name: Instalar pacotes
         run: |
-          install.packages(c("rmarkdown", "tinytex"))
+          install.packages(c("rmarkdown", "tinytex", "installr"))
+        shell: Rscript {0}
+
+      - name: Instalar pandoc
+        run: |
+          installr::install.pandoc()
         shell: Rscript {0}
 
       - name: Instalar tinytex
