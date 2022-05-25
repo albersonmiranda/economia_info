@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.ADMIN_TOKEN }}
       
       - name: Install sudo package
-        run: apt update && apt install sudo
+        run: apt install sudo
 
       - name: Install git
         run: sudo apt-get install git-all
