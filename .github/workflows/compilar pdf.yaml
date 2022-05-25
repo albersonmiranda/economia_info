@@ -8,7 +8,7 @@ name: compile pdf
 
 jobs:
   compile-pdf:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         r-version: ['4.2.0']
@@ -22,7 +22,7 @@ jobs:
         uses: lc5415/rmarkdown-action@v1
         with:
           input_file: artigo.rmd
-          output_format: artigo.pdf
+          output_format: pdf_document
 
       - name: Commit do PDF
         run: |
