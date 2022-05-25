@@ -1,0 +1,50 @@
+# Workflow derived from https://github.com/r-lib/actions/tree/master/examples
+# Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
+on:
+  push:
+    branches: [main, master]
+
+name: compile pdf
+
+jobs:
+  compile-pdf:
+    runs-on: macos-latest
+    strategy:
+      matrix:
+        r-version: ['4.1.0']
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.ADMIN_TOKEN }}
+
+      - name: Instalar R ${{ matrix.r-version }}
+        uses: r-lib/actions/setup-r@v1
+        with:
+          r-version: ${{ matrix.r-version }}
+
+      - name: Install dependencies
+        uses: r-lib/actions/setup-r-dependencies@v1
+        with:
+          cache-version: 1
+          extra-packages: |
+            rmarkdown
+            tinytex
+
+      - name: Instalar tinytex
+        run: |
+          tinytex::install_tinytex()
+        shell: Rscript {0}
+
+      - name: Compilar PDF
+        run: |
+          rmarkdown::render('artigo.Rmd', encoding = 'UTF-8')
+        shell: Rscript {0}
+
+      - name: Commit do PDF
+        run: |
+          git config --local user.email ${{ secrets.ADMIN_EMAIL }}
+          git config --local user.name ${{ secrets.ADMIN_NAME }}
+          git add artigo.pdf
+          git commit -m 'compilar PDF' || echo "compilar PDF"
+          git push origin || echo "compilar PDF"
