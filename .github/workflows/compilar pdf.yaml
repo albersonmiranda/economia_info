@@ -21,7 +21,7 @@ jobs:
       - name: Render document
         uses: happyRip/rmarkdown-action@v1.1
         with:
-          input_file: artigo.rmd
+          input_file: artigo.Rmd
           output_format: pdf_document
 
       - name: Commit do PDF
