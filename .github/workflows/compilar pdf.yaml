@@ -23,13 +23,10 @@ jobs:
         with:
           r-version: ${{ matrix.r-version }}
 
-      - name: Install dependencies
-        uses: r-lib/actions/setup-r-dependencies@v1
-        with:
-          cache-version: 1
-          extra-packages: |
-            rmarkdown
-            tinytex
+      - name: Instalar pacotes
+        run: |
+          install.packages(c("rmarkdown", "tinytex"))
+        shell: Rscript {0}
 
       - name: Instalar tinytex
         run: |
