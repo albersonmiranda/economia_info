@@ -23,10 +23,10 @@ jobs:
           install.packages(c("rmarkdown", "tinytex"))
         shell: Rscript {0}
 
-      - name: Instalar tinytex
-        run: |
-          tinytex::install_tinytex()
-        shell: Rscript {0}
+#      - name: Instalar tinytex
+#        run: |
+#          tinytex::install_tinytex()
+#        shell: Rscript {0}
 
       - name: Compilar PDF
         run: |
