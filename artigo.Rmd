@@ -60,7 +60,7 @@ A atividade do produtor cultural, em relação ao jogo simbólico, deve aparece 
 
 Tendo início por volta do século XV, a autonomização que o autor faz referência passa, necessariamente, pela constituição da demanda de bens simbólicos acima do ponto crítico em que profissionalização da atividade de produção desse tipo de bem se torna viável. Com a revolução industrial, essa formação é acelerada pela "extensão do público resultante da generalização do ensino elementar, capaz de permitir às novas classes (e às mulheres) o acesso ao consumo cultural (por exemplo, através da leitura de romances)" \citep[p.~102]{bourdieu}.
 
-Essas condições permitem ao campo intelectual e artístico a, progessivamente, se libertar da tutela da ética e estética das instâncias de legitimidade externas — como a igreja e a corte —, e firmar suas próprias regras em uma tradição pautada na *arte pela arte*.
+Essas condições permitem ao campo intelectual e artístico a, progessivamente, se libertar da tutela da ética e estética das instâncias de legitimidade externas — como a igreja e a corte —, e firmar suas próprias regras em uma tradição pautada na *arte pela arte*. Na medida que essa autonomia se desenvolve e se amplia, a classe artística passa a exercer em suas esferas de legitimização um controle exclusivo — tanto no sentido de privado, restrito, quanto no sentido de exclusão, pois cada vez mais exige o domínio de códigos de comunicação progressivamente mais complexos —, 
 
 
 
@@ -89,12 +89,12 @@ Esse resultado nos permitiria dizer que o consumo de mais um bem cultural aument
 
 ## UMA TEORIA PURA DA ARTE
 
-A análise das hipóteses trazidas por \citet{herscovici} nos permite supor que, por conta das características do produto cultural, o *mainstream* seja inadequado para situar metodologicamente uma análise do setor de produção desses bens e, portanto, deve-se buscar alguma alternativa. Bourdieu propõe uma *teoria pura da arte*, que trate da dualidade do produto cultural como valor puramente simbólico e como mercadoria:
+A análise das hipóteses trazidas por \citet{herscovici} nos permite supor que, por conta das características do produto cultural, o *mainstream* seja inadequado para situar metodologicamente uma análise do setor de produção desses bens e, por consequência, deve-se buscar uma alternativa. Bourdieu propõe uma *teoria pura da arte*, que trate da dualidade do produto cultural como valor puramente simbólico e como mercadoria:
 
 \begin{citacao}
 [...] tudo leva a crer que a constituição da obra de arte como mercadoria e a aparição, devido aos progressos da divisão do trabalho, de uma categoria particular de produtores de bens simbólicos especificamente destinados ao mercado, propiciaram condições favoráveis a uma teoria pura da arte --- da arte como tal ---, instaurando uma dissociação entre a arte como simples mercadoria e a arte como pura significação, cisão produzida por uma intenção meramente simbólica e destinada à apropriação simbólica, isto é, a fruição desinteressada e irredutível à mera posse material. \citep[p.~103]{bourdieu}
 \end{citacao}
 
-O bem cultural pode, nessa concepção, ter valor simbólico, ser *arte*, e não ser mercadoria. Entretanto, quando mercadoria ele não deixa de ser arte, independentemente do quão baixa possa ser sua legitimização dentre a classe artística. Isso porque o vlaor simbólico do bem cultural depende da percepção do produtor ou do observador, que varia de acordo com o contexto social e histórico. Uma vez percebido como arte, o será.
+O bem cultural pode, nessa concepção, ter ao mesmo tempo valor simbólico, ou seja, ser *arte*, e não estar ofertado no mercado, de forma que não seja *mercadoria*. Entretanto, enquanto mercadoria ele não deixa de ser arte, independentemente do quanto é sua legitimidade dentre a classe artística. Isso porque o valor simbólico do bem cultural depende da percepção do produtor ou do observador, que varia de acordo com o contexto social e histórico. Uma vez percebido como arte, o será \citep[p.~272]{bourdieu}.
 
 # REFERÊNCIAS
