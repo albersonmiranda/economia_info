@@ -18,6 +18,9 @@ jobs:
         with:
           token: ${{ secrets.ADMIN_TOKEN }}
 
+      - name: Install git
+        run: sudo apt-get install git-all
+
       - name: Instalar pacotes
         run: |
           install.packages(c("rmarkdown", "tinytex"))
