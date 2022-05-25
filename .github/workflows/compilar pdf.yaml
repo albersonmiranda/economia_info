@@ -8,10 +8,10 @@ name: compile pdf
 
 jobs:
   compile-pdf:
-    runs-on: macos-latest
+    runs-on: windows-latest
     strategy:
       matrix:
-        r-version: ['4.1.0']
+        r-version: ['4.2.0']
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
