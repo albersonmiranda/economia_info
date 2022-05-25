@@ -17,7 +17,6 @@ output:
 
 # options
 knitr::opts_chunk$set(echo = FALSE)
-
 ```
 
 # INTRODUÇÃO {-}
@@ -32,7 +31,7 @@ Neste estudo, [...]
 
 # CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
 
-Para caracterizar o setor de produção de bens culturais, nos muniremos de @bourdieu e @herscovici. E, para que tal caracterização seja coerente, deve-se manter, na medida do possível, um método e um conjunto de conceitos coesos. Para tanto, analisaremos a seguir as quatro hipóteses acerca do produto cultural adotadas por @hercovici.
+Para caracterizar o setor de produção de bens culturais, nos muniremos de @bourdieu e @herscovici. E, para que tal caracterização seja coerente, deve-se manter, na medida do possível, um método e um conjunto de conceitos coesos. Para tanto, analisaremos a seguir as quatro hipóteses acerca do produto cultural adotadas por @herscovici.
 
 ## HIPÓTESE #1
 
@@ -60,13 +59,14 @@ A atividade do produtor cultural, em relação ao jogo simbólico, deve aparece 
 
 Tendo início por volta do século XV, a autonomização que o autor faz referência passa, necessariamente, pela constituição da demanda de bens simbólicos acima do ponto crítico em que profissionalização da atividade de produção desse tipo de bem se torna viável. Com a revolução industrial, essa formação é acelerada pela "extensão do público resultante da generalização do ensino elementar, capaz de permitir às novas classes (e às mulheres) o acesso ao consumo cultural (por exemplo, através da leitura de romances)" \citep[p.~102]{bourdieu}.
 
-Essas condições permitem ao campo intelectual e artístico a, progessivamente, se libertar da tutela da ética e estética das instâncias de legitimidade externas — como a igreja e a corte —, e firmar suas próprias regras em uma tradição pautada na *arte pela arte*. Na medida que essa autonomia se desenvolve e se amplia, a classe artística passa a exercer em suas esferas de legitimização um controle exclusivo — tanto no sentido de privado, restrito, quanto no sentido de exclusão, pois cada vez mais exige o domínio de códigos de comunicação progressivamente mais complexos —, 
+Essas condições permitem ao campo intelectual e artístico a, progessivamente, se libertar da tutela da ética e estética das instâncias de legitimidade externas — como a igreja e a corte —, e firmar suas próprias regras em uma tradição pautada na *arte pela arte*. Na medida que essa autonomia se desenvolve e se amplia, a classe artística passa a exercer em suas esferas de legitimização um controle exclusivo — tanto no sentido de privado, restrito, quanto no sentido de exclusão, pois cada vez mais exige o domínio de códigos de comunicação progressivamente mais complexos —, o que vai de encontro às características da mercadoria no *mainstream*.
 
+A legitimização e avaliação de uma mercadoria no *mainstream* é definida pelo seu valor de uso e apreço — sua utilidade total e marginal, respectivamente — e, principalmente, por sua escassez \citep[p.~67-68]{jevons}. Em um ambiente concorrencial, esses elementos determinarão também seu preço. Entretanto, um campo de produção de bens culturais que visa exercer sua autonomia de forma exclusiva não pode ser ao mesmo tempo legitimizado externamente pelas relações de troca da mercadoria com o consumidor e nem pela utilidade de seus produtos culturais, tornando evidente sua incompatibilidade teórica com o *mainstream*.
 
 
 ## HIPÓTESE #3
 
-\begin{citacao]
+\begin{citacao}
 Cada produto cultural aparece e é percebido como único. Mesmo quando produzido industrialmente, ele mantém as características de um produto único. Apesar do mecanismo de formação dos preços de mercado, seu valor de uso é único e aleatório. A personalização extrema dos modos de valorização desses produtos, ligada ao desenvolvimento e à exacerbação do "star-system", permite a organização e a manutenção desta escassex. \citep[p.~31]{herscovici}
 \end{citacao}
 
@@ -96,5 +96,7 @@ A análise das hipóteses trazidas por \citet{herscovici} nos permite supor que,
 \end{citacao}
 
 O bem cultural pode, nessa concepção, ter ao mesmo tempo valor simbólico, ou seja, ser *arte*, e não estar ofertado no mercado, de forma que não seja *mercadoria*. Entretanto, enquanto mercadoria ele não deixa de ser arte, independentemente do quanto é sua legitimidade dentre a classe artística. Isso porque o valor simbólico do bem cultural depende da percepção do produtor ou do observador, que varia de acordo com o contexto social e histórico. Uma vez percebido como arte, o será \citep[p.~272]{bourdieu}.
+
+- Tratar do setor de produção erudito e popular
 
 # REFERÊNCIAS
