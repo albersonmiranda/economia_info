@@ -27,7 +27,7 @@ Neste estudo, [...]
 
 # FATOS ESTILIZADOS DA INDÚSTRIA CULTURAL NOS ANOS 2000
 
-Os fatos que discute-se neste trabalho 
+A indústria cultural tem sofrido mudanças profundas nos últimos 20 anos. Avanços tecnológicos, estrutura de receita e oligopolização são alguns dos fatores que afetaram várias dimensões do setor de bens culturais — cinematográfica, televisiva, musical, literária e até mesmo de jogos eletrônicos.
 
 # CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
 
@@ -98,5 +98,10 @@ A análise das hipóteses trazidas por \citet{herscovici} nos permite supor que,
 O bem cultural pode, nessa concepção, ter ao mesmo tempo valor simbólico, ou seja, ser *arte*, e não estar ofertado no mercado, de forma que não seja *mercadoria*. Entretanto, enquanto mercadoria ele não deixa de ser arte, independentemente do quanto é sua legitimidade dentre a classe artística. Isso porque o valor simbólico do bem cultural depende da percepção do produtor ou do observador, que varia de acordo com o contexto social e histórico. Uma vez percebido como arte, o será \citep[p.~272]{bourdieu}.
 
 - Tratar do setor de produção erudito e popular
+
+# TESE
+
+1. Com redução de receitas, fortalecimento do star system, causando oligopolização da indústria cultural;
+
 
 # REFERÊNCIAS
