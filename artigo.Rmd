@@ -21,13 +21,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # INTRODUÇÃO {-}
 
-A economia está inserida na esfera social e, portanto, determinada por fenômenos sociais. Suas regras, normas e relações estão, por essa razão, sujeitas à geografia, tempo e estruturas de poder\footnote{Aqui me refiro às instituições que ora determinaram o \textit{ethos} vigente, como a igreja, aristrocacia ou o capital, por exemplo.}. Isso implica que seu funcionamento em raras ocasiões --- ou em nenhuma --- poderá ser explicado por *leis*, que, por definição, são imutáveis. E no caso dos bens culturais, há evidências de transformações profundas nos últimos anos.
+A economia está inserida na esfera social e, portanto, determinada por fenômenos sociais. Suas regras, normas e relações estão, por essa razão, sujeitas à geografia, tempo e estruturas de poder\footnote{Aqui me refiro às instituições que ora determinaram o \textit{ethos} vigente, como a igreja, aristrocacia ou o capital, por exemplo.}. Isso implica que seu funcionamento em raras ocasiões --- ou em nenhuma --- poderá ser explicado por *leis da natureza*, que, por definição, são imutáveis. E no caso dos bens culturais, há evidências de transformações profundas nos últimos anos.
 
 Neste estudo, [...]
 
 # FATOS ESTILIZADOS DA INDÚSTRIA CULTURAL NOS ANOS 2000
 
 A indústria cultural tem sofrido mudanças profundas nos últimos 20 anos. Avanços tecnológicos, estrutura de receita e oligopolização são alguns dos fatores que afetaram várias dimensões do setor de bens culturais — cinematográfica, televisiva, musical, literária e até mesmo de jogos eletrônicos.
+
+Dentre os fatores tecnológicos, a sequência de inovações nas mídias que culminaram no advento do *streaming* são de fundamental importância. No audiovisual, enquanto as mídias físicas --- fitas cassetes e vinis --- dominavam o mercado e a internet ainda não era largamente disponível, a pirataria era menos viável e de menor qualidade. Em 2001, 98% da receita da indústria da música gravada era oriunda das mídias físicas. Com a introdução do *compact disk* --- o CD---, a propagação da internet e a popularização de computadores com *drive* de disco, se torna simples a cópia física e digital da música gravada, dando ímpeto à pirataria. É nesse momento que sites especializados e tecnologias de compartilhamento, como o *torrent* e o P2P\footnote{Limeware, Kazaa e eMule, por exemplo.}, surgem. Com o lançamento do iPod, em 2001, a transição para a mídia digital alcança também os reprodutores móveis, tornando obsoleto o *discman* e concluindo a transição da mídia analógica para a digital @commons. 
 
 # CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
 
