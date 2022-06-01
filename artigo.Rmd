@@ -29,14 +29,14 @@ Neste estudo, [...]
 
 A indústria cultural tem sofrido mudanças profundas nos últimos 20 anos. Avanços tecnológicos, estrutura de receita e oligopolização são alguns dos fatores que afetaram várias dimensões do setor de bens culturais — cinematográfica, televisiva, musical, literária e até mesmo de jogos eletrônicos.
 
-Dentre os fatores tecnológicos, a sequência de inovações nas mídias que culminaram no advento do *streaming* são de fundamental importância. No audiovisual, enquanto as mídias físicas --- fitas cassetes e vinis --- dominavam o mercado e a internet ainda não era largamente disponível, a pirataria era menos viável e de menor qualidade. Em 2001, 98% da receita da indústria da música gravada era oriunda das mídias físicas. Com a introdução do *compact disk* --- o CD---, a propagação da internet e a popularização de computadores com *drive* de disco, se torna simples a cópia física e digital da música gravada, dando ímpeto à pirataria. É nesse momento que sites especializados e tecnologias de compartilhamento, como o *torrent* e o P2P\footnote{Limeware, Kazaa e eMule, por exemplo.}, surgem. Lançado o iPod, em 2001, a transição para a mídia digital alcança também os reprodutores móveis, tornando obsoleto o *discman* e concluindo a transição da mídia analógica para a digital @commons.
+Dentre os fatores tecnológicos, a sequência de inovações nas mídias que culminaram no advento do *streaming* são de fundamental importância. No audiovisual, enquanto as mídias físicas --- fitas cassetes e vinis --- dominavam o mercado e a internet ainda não era largamente disponível, a pirataria era menos viável e de menor qualidade. Em 2001, 98% da receita da indústria da música gravada era oriunda das mídias físicas. Com a introdução do *compact disk* --- o CD---, a propagação da internet e a popularização de computadores com *drive* de disco, se torna simples a cópia física e digital da música gravada, dando ímpeto à pirataria. É nesse momento que sites especializados e tecnologias de compartilhamento, como o *torrent* e o P2P\footnote{Limeware, Kazaa e eMule, por exemplo.}, surgem. Lançado o iPod, em 2001, a transição para a mídia digital alcança também os reprodutores móveis, tornando obsoleto o *discman* e concluindo a transição da mídia analógica para a digital [@commons, p. 9].
 
+Uma vez colocadas as condições para replicação física e digital de forma viável, após alcançar seu ápice em 2001, a indústria da música gravada, que ainda dependia da venda de mídia física, sofreu ano após ano redução de receitas decorrente da pirataria. Entre 2002 e 2015, essa redução foi de 40% [@commons, p. 10]. De acordo com uma pesquisa citada na BBC, 20% dos europeus usavam P2P, enquanto apenas 10% deles usavam serviços pagos, como o iTunes @bbc. 
 
+Enquanto tentativas para reverter esse quadro foram, em geral, infrutíferas
 
 ```{r receitas, fig.cap = "Receita global da indústria da música (US\\$ bi)", out.width = '100%'}
-
 knitr::include_graphics("img/receitas.png")
-
 ```
 
 # CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
