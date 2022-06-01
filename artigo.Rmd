@@ -8,7 +8,7 @@ output:
   pdf_document:
     includes:
       in_header: preamble.tex
-    keep_tex: false
+    keep_tex: true
     citation_package: natbib
     number_sections: true
 ---
@@ -33,8 +33,10 @@ Dentre os fatores tecnológicos, a sequência de inovações nas mídias que cul
 
 
 
-```{r receitas, fig.cap = "Receita global da indústria da música (US$ bi)", out.width = '100%'}
-knitr::include_graphics("temp.png")
+```{r receitas, fig.cap = "Receita global da indústria da música (US\\$ bi)", out.width = '100%'}
+
+knitr::include_graphics("img/receitas.png")
+
 ```
 
 # CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
