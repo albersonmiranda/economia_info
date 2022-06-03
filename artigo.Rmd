@@ -41,13 +41,13 @@ knitr::include_graphics("img/receitas.png")
 
 O mesmo fenômeno foi observado na indústria cinematográfica. Após alcançar a máxima história de ingressos vendidos em 2002, tanto as vendas de ingressos e a receita (ajustada pela inflação) em 2019 foram 2,3% menores que em 2014 [@numbers]. Estudos\footnote{Ver \citet{frick} e \citet{welter}.} mostram que a disponibilização de um filme na Netflix é capaz de reduzir em mais de 10% a quantidade de *downloads* em sites de *torrents* nas primeiras semanas, ao mesmo tempo que a retirada de uma obra do catálogo aumenta em mais de 20% a busca no Google pela obra pirateada.
 
-```{r receitas de filmes, fig.align = "center", fig.cap = "Ingressos vendidos e receita do conema nos Estados Unidos em US\\$ \\citep{filmes}", out.width = '70%'}
+```{r receitas de filmes, fig.align = "center", fig.cap = "Ingressos vendidos e receita do conema nos Estados Unidos em US\\$ \\citep{numbers}", out.width = '70%'}
 knitr::include_graphics("img/filmes.png")
 ```
 
 Já na indústria de jogos eletrônicos, a mudança estrutural foi ainda mais profunda. Nos Estados Unidos, a mídia física, que representava 80% das vendas em 2009, passou para apenas 17% em 2018. Hoje já se tornou comum encontrar aparelhos sem unidade de disco --- como o Xbox Series S, versão de entrada dos consoles de última geração da Microsoft ---, que nem ao menos são compatíveis com mídia física [@statista].
 
-```{r receitas de games, fig.align = "center", fig.cap = "Proporção das vendas de jogos eletrônicos por mídia \\citep{games}", out.width = '70%'}
+```{r receitas de games, fig.align = "center", fig.cap = "Proporção das vendas de jogos eletrônicos por mídia \\citep{statista}", out.width = '70%'}
 knitr::include_graphics("img/games.png")
 ```
 
