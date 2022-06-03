@@ -35,41 +35,41 @@ Uma vez colocadas as condições para replicação física e digital de forma vi
 
 Enquanto tentativas para reverter esse quadro foram, em geral, insuficientes, o advento do *streaming* mudou completamente o cenário. Apesar da receita com mídia física continuar em queda, as receitas totais da indústria da música voltam a crescer em 2015 a partir da expansão e popularização global de serviços de *streaming*, como o Spotify e Deezer\footnote{O Spotify chega ao Brasil em 2014.}. Em países da Europa, observou-se, entre 2009 e 2011, queda de até 25% no números de pessoas deixando de consumir música pirateada [@commons, p. 12]; No Brasil, uma pesquisa constatou que, ainda em 2014, o consumo de músicas pirateadas era 31% menor dentre usuários de serviços de *streaming* [@g1]. Com isso, o *streaming* já representa mais da metade das receitas globais da indústria da música, tendo alcançado 56% em 2019.
 
-```{r receitas da musica, fig.align = "center", fig.cap = "Receita global da indústria da música em US\\$ bi \\citep{commons}", out.width = '70%'}
+```{r receitas da musica, fig.align = "center", fig.cap = "Receita global da indústria da música em US\\$ bi \\citep{commons}", out.width = '50%'}
 knitr::include_graphics("img/receitas.png")
 ```
 
 O mesmo fenômeno foi observado na indústria cinematográfica. Após alcançar a máxima história de ingressos vendidos em 2002, tanto as vendas de ingressos e a receita (ajustada pela inflação) em 2019 foram 2,3% menores que em 2014 [@numbers]. Estudos\footnote{Ver \citet{frick} e \citet{welter}.} mostram que a disponibilização de um filme na Netflix é capaz de reduzir em mais de 10% a quantidade de *downloads* em sites de *torrents* nas primeiras semanas, ao mesmo tempo que a retirada de uma obra do catálogo aumenta em mais de 20% a busca no Google pela obra pirateada.
 
-```{r receitas de filmes, fig.align = "center", fig.cap = "Ingressos vendidos e receita do conema nos Estados Unidos em US\\$ \\citep{numbers}", out.width = '70%'}
+```{r receitas de filmes, fig.align = "center", fig.cap = "Ingressos vendidos e receita do conema nos Estados Unidos em US\\$ \\citep{numbers}", out.width = '50%'}
 knitr::include_graphics("img/filmes.png")
 ```
 
 Já na indústria de jogos eletrônicos, a mudança estrutural foi ainda mais profunda. Nos Estados Unidos, a mídia física, que representava 80% das vendas em 2009, passou para apenas 17% em 2018. Hoje já se tornou comum encontrar aparelhos sem unidade de disco --- como o Xbox Series S, versão de entrada dos consoles de última geração da Microsoft ---, que nem ao menos são compatíveis com mídia física [@statista].
 
-```{r receitas de games, fig.align = "center", fig.cap = "Proporção das vendas de jogos eletrônicos por mídia \\citep{statista}", out.width = '70%'}
+```{r receitas de games, fig.align = "center", fig.cap = "Proporção das vendas de jogos eletrônicos por mídia \\citep{statista}", out.width = '50%'}
 knitr::include_graphics("img/games.png")
 ```
 
 Além dessas mudanças tecnológicas e na estrutura de receitas, também se tornou evidente a oligapolização do mercado de bens culturais. Na música, após alcançar o ápice na década de 70, a quantidade de artistas diferentes no ano compondo a tabela de músicas mais populares publicada pela revista Billboard decresceu significantemente.
 
-```{r oligo musica, fig.align = "center", fig.cap = "Quantidade de artistas diferentes compondo a Billboard 100 por ano \\citep{experimentalhistory}", out.width = '70%'}
+```{r oligo musica, fig.align = "center", fig.cap = "Quantidade de artistas diferentes compondo a Billboard 100 por ano \\citep{experimentalhistory}", out.width = '50%'}
 knitr::include_graphics("img/oligo-musica.png")
 ```
 
 Na indústria cinematográfica, a proporção de filmes originais --- no sentido de que não são sequências, prequelas, *remakes* etc ---, dentre os filmes de maior receita no ano, que era em média maior que 70% na década de 80, caiu drasticamente a partir dos anos 2000, chegando a quase 10% em 2019. Na TV, a proporção de *spinoffs* ou programas exibidos em mais de um dia na semana entre os 30 de maior audiência passou de pouco mais de 10% na década de 80 para quase 40% em 2019.
 
-```{r oligo filmes, fig.align = "center", fig.cap = "Filmes no \\textit{top} 20 de \\textit{box office} que são prequelas, sequências, \\textit{spinoffs}, \\textit{remakes}, \\textit{reboots} ou universo cinemático expandido \\citep{experimentalhistory}", out.width = '70%'}
+```{r oligo filmes, fig.align = "center", fig.cap = "Filmes no \\textit{top} 20 de \\textit{box office} que são prequelas, sequências, \\textit{spinoffs}, \\textit{remakes}, \\textit{reboots} ou universo cinemático expandido \\citep{experimentalhistory}", out.width = '50%'}
 knitr::include_graphics("img/oligo-filmes.png")
 ```
 
-```{r oligo tv, fig.align = "center", fig.cap = "Programas de TV dentre os 30 de maior audiência que são \\textit{spinoffs}ou são exibidos em mais de um dia na semana \\citep{experimentalhistory}", out.width = '70%'}
+```{r oligo tv, fig.align = "center", fig.cap = "Programas de TV dentre os 30 de maior audiência que são \\textit{spinoffs}ou são exibidos em mais de um dia na semana \\citep{experimentalhistory}", out.width = '50%'}
 knitr::include_graphics("img/oligo-tv.png")
 ```
 
 Essa mesma lógica se aplica também ao mercado literário. Enquanto a proporção de livros escritos por autores com mais de uma obra na lista de *best sellers* em um ano era, em média, zero nas décadas de 60 e 70, esse número alcançou 60% em 2011.
 
-```{r oligo livros, fig.align = "center", fig.cap = "Proporção de livros entre os mais 10 vendidos no ano por autores com mais de um livro no \\textit{top} 10 \\citep{experimentalhistory}", out.width = '70%'}
+```{r oligo livros, fig.align = "center", fig.cap = "Proporção de livros entre os mais 10 vendidos no ano por autores com mais de um livro no \\textit{top} 10 \\citep{experimentalhistory}", out.width = '50%'}
 knitr::include_graphics("img/oligo-literatura.png")
 ```
 
