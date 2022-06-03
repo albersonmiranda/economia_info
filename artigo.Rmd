@@ -51,7 +51,27 @@ Já na indústria de jogos eletrônicos, a mudança estrutural foi ainda mais pr
 knitr::include_graphics("img/games.png")
 ```
 
-Além dessas mudanças tecnológicas e na estrutura de receitas, também se tornou evidente a oligapolização do mercado de bens culturais. 
+Além dessas mudanças tecnológicas e na estrutura de receitas, também se tornou evidente a oligapolização do mercado de bens culturais. Na música, após alcançar o ápice na década de 70, a quantidade de artistas diferentes no ano compondo a tabela de músicas mais populares publicada pela revista Billboard decresceu significantemente.
+
+```{r oligo musica, fig.cap = "Quantidade de artistas diferentes compondo a Billboard 100 por ano \\citep{experimentalhistory}", out.width = '100%'}
+knitr::include_graphics("img/oligo-musica.png")
+```
+
+Na indústria cinematográfica, a proporção de filmes originais --- no sentido de que não são sequências, prequelas, *remakes* etc ---, dentre os filmes de maior receita no ano, que era em média maior que 70% na década de 80, caiu drasticamente a partir dos anos 2000, chegando a quase 10% em 2019. Na TV, a proporção de *spinoffs* ou programas exibidos em mais de um dia na semana entre os 30 de maior audiência passou de pouco mais de 10% na década de 80 para quase 40% em 2019.
+
+```{r oligo filmes, fig.cap = "Filmes no \\textit{top} 20 de \\textit{box office} que são prequelas, sequências, \\textit{spinoffs}, \\textit{remakes}, \\textit{reboots} ou universo cinemático expandido \\citep{experimentalhistory}", out.width = '100%'}
+knitr::include_graphics("img/oligo-filmes.png")
+```
+
+```{r oligo tv, fig.cap = "Programas de TV dentre os 30 de maior audiência que são \\textit{spinoffs}ou são exibidos em mais de um dia na semana \\citep{experimentalhistory}", out.width = '100%'}
+knitr::include_graphics("img/oligo-tv.png")
+```
+
+Essa mesma lógica se aplica também ao mercado literário. Enquanto a proporção de livros escritos por autores com mais de uma obra na lista de *best sellers* em um ano era, em média, zero nas décadas de 60 e 70, esse número alcançou 60% em 2011.
+
+```{r oligo livros, fig.cap = "Proporção de livros entre os mais 10 vendidos no ano por autores com mais de um livro no \\textit{top} 10 \\citep{experimentalhistory}", out.width = '100%'}
+knitr::include_graphics("img/oligo-literatura.png")
+```
 
 # CARACTERIZAÇÃO TEÓRICA DO SETOR DE PRODUÇÃO DE BENS CULTURAIS
 
