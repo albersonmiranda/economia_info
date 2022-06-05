@@ -1,5 +1,8 @@
-\usepackage{quoting, setspace}
+% pacotes
+\usepackage{quoting, setspace, caption, float}
+\usepackage[brazil]{babel}
 
+% ambiente citação
 \newenvironment{citacao}
     {\begin{quoting}[rightmargin=0cm,leftmargin=4cm]
     \begin{singlespace}
@@ -7,5 +10,10 @@
     }
     {\end{singlespace}
     \end{quoting}
-    }
-    
+}
+
+% tamanho da legenda
+\captionsetup[figure]{font=scriptsize}
+
+% posição das figuras
+\floatplacement{figure}{H}
