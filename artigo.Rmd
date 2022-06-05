@@ -162,9 +162,10 @@ Somado à especificidade da formação de valor de uso e valor econômico no pro
 [...] ou não existe assalariamento da força de trabalho e esta é remunerada em função das receitas aleatórias ligadas à venda do produto (direitos autorais, royalties), ou tal assalariamento é parcial e parte da renda depende dessas mesmas receitas aleatórias (o cinema é prepresentativo desta situação). Nos dois casos há \textit{exteriorização da força de trabalho artística em relação ao processo global de produção}. \citep[p.~173-174]{herscovici}
 \end{citacao}
 
-Embora essa característica não seja nova à classe artística, as inovações tecnológicas que acabaram por estimular a pirataria afetaram drasticamente a renda do setor de uma forma que aparenta ter sido irreversível.
+Embora essa característica não seja nova à classe artística, as inovações tecnológicas que acabaram por estimular a pirataria afetaram drasticamente a renda do setor de uma forma que aparenta ter sido irreversível. No caso da indústria musical, mesmo com a recuperação do crescimento das receitas, a mudança da mídia física para o *streaming* como bloco fundamental da receita da indústria gerou redução de 85% no preço médio pago por música \citep{excedente}.
 
-1. FALAR SOBRE O EXCEDENTE DO CONSUMIDOR
-1. COMO A INDUSTRIA EXACERBOU O STAR SYSTEM PARA RECUPERAR RECEITA
+Subordinada à lógica capitalista e à luz de tamanha ameaça à sua lucratividade, é apenas coerente que os detentores dos instrumentos de produção e difusão dos bens culturais, associados ao mercado publicitário midiático, buscassem fortalecer a ilusão do consenso ao redor de suas estrelas --- seus artistas consagrados que dominam o mercados e são sua principal fonte de receita.
+
+Essa exacerbação do *star-system* traz ao seu lado uma ameaça ao próprio modelo. O aumento da participação do capital no processo de produção artístico, que nesse caso se traduz na redução da diferenciação, ou seja, da heterogeneidade da indústria, reduz a participação dos elementos que produzem o valor simbólico aleatório, que acabam por eventualmente reduzir as próprias receitas do setor. A título de exemplo, o gênero de filmes de super-heróis, objeto da oligopolização da indústria cinematográfica na última década, que já não conta com a legitimização do setor de produção erudito, também começa a perder seu ímpeto dentre os consumidores --- em um ano, o número de pessoas nos EUA que relataram estarem cansados de filmes desse gênero subiu 6 p.p. \citep{shevenock}. 
 
 # REFERÊNCIAS
