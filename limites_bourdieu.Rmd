@@ -47,17 +47,23 @@ Entretanto, essa estrutura monopolística por si só não explica o porquê da a
 
 # A TEORIA DOS CAMPOS DE BOURDIEU
 
-Para entender a estrutura do campo de produção cultural, nos muniremos mais uma vez de \citet{bourdieu}. Ele organiza a produção cultural em estruturas de campos cujas posições e interrelações são determinadas por quantidades ordinais de diferentes tipos de capital --- capital cultural (ou humano, pelo que interpretei mas não estou seguro), capital econômico e capital simbólico. Essas interrelações estão resumidas no quadro a seguir:
-
-```{r campos, fig.cap = "Estrutura de campos de Bourdieu"}
-knitr::include_graphics("img/fields.excalidraw.png")
-```
+Para entender a estrutura do campo de produção cultural, nos muniremos mais uma vez de \citet{bourdieu}. Ele organiza a produção cultural em estruturas de campos cujas posições e interrelações são determinadas por quantidades ordinais de diferentes tipos de capital --- capital cultural (ou humano, pelo que interpretei mas não estou seguro), capital econômico e capital simbólico. 
 
 O campo da produção cultural é o que possui capital simbólico e, se o valor simbólico precede o valor econômico, é onde o valor é gerado. Bourdieu diz que esse campo é autônomo em relação ao campo do poder.
 
 ## FORMAÇÃO E AUTONOMIZAÇÃO DO CAMPO DE PRODUÇÃO CULTURAL
 
-Bourdieu coloca três etapas durante a formação do campo de produção cultural. A primeira, 
+Bourdieu coloca três etapas durante a formação do campo de produção cultural. A primeira é a etapa constituição da produção cultural como um campo autônomo do campo do poder. As instituições representativas no campo do poder eram a igreja e aristocracia. Com a formação da burguesia e, consequentemente, de um público consumidor extenso e diversificado o suficiente para viabilizar a profissionalização da atividade de produção cultural; com a crescente formação de novos produtores e empresários de bens simbólicos, e; com a multiplicação e diversificação de espaços de consagração simbólica, o campo intelectual e artístico cria alguma autonomia da tutela ética e estética das instâncias de legitimidade externas e se constitui como campo autônomo @[bourdieu, p. 100].
+
+A segunda etapa consiste no surgimento da estrutura dual do campo de produção de bens culturais: o subcampo de produção erudito e o subcampo da indústria cultural. O primeiro emerge por volta de 1830 a partir de um processo de fechamento em si, negando e se colocando em oposição ao subcampo da indústria cultural. Ele, no esquema de Bourdieu, está hierarquicamente em posição superior ao outro subcampo, no sentido de possuir maior autonomia, que se reflete "no poder de que dispõe para definir as normas de sua produção, os critérios de avaliação de seus produtos e, portanto, para retraduzir e reinterpretar todas as determinações externas de acordo com seus princípios próprios de funcionamento" [bourdieu, p. 106].
+
+A terceira etapa então é o mercado de bens simbólicos em sua forma completa, na análise de Bourdieu, na estrutura descrita na figura a seguir: o m
+
+Essas interrelações estão resumidas no quadro a seguir:
+
+```{r campos, fig.cap = "Estrutura de campos de Bourdieu"}
+knitr::include_graphics("img/fields.excalidraw.png")
+```
 
 # O SETOR DE PRODUÇÃO DE BENS CULTURAIS NA ERA DAS CORPORAÇÕES
 
